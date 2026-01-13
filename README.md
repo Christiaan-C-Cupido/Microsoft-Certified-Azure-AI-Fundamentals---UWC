@@ -3,8 +3,8 @@ Learning Outcomes
 
 1. Microsoft Azure AI Fundamentals AI Overview
    Unit2:
-   -Define generative AI and list at least three types of content it can produce.
-   -What role does a language model play in generative AI solutions?
+   *Define generative AI and list at least three types of content it can produce.
+   *What role does a language model play in generative AI solutions?
    -How do users interact with generative AI models?
    -Explain the importance of semantic relationships in generative AI models.
    -Distinguish between large language models (LLMs) and small language models (SLMs). Provide one advantage of each.
