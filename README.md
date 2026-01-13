@@ -42,7 +42,13 @@ Learning Outcomes
    - An organization needs to digitize thousands of old census forms stored on paper for long-term archiving. Which AI capability would be useful and why?
    - A business wants to automatically identify key follow-up actions from recorded meeting discussions. Which AI approach should be used and why?
    
-   
+   Unit 7: Responsible AI
+   - Why is fairness an important principle in responsible AI?
+   - What does the principle of accountability require from organizations building AI systems?
+   - Explain how the principle of privacy and security applies to AI model development.
+   - Compare the principles of inclusiveness and transparency in responsible AI.
+   - A university uses an AI system to review student admissions. Which responsible AI principle is most directly relevant and why?
+   - An airport facial recognition system stores traveler images for temporary identity verification. What responsible AI principle applies and how?
    
 3. Microsoft Azure AI Fundamentals Computer Vision
 4. Microsoft Azure AI Fundamentals Natural Language Processing
