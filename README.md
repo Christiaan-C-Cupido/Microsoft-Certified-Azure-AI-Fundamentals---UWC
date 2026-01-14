@@ -2,6 +2,7 @@
 Learning Outcomes
 
 1. Microsoft Azure AI Fundamentals AI Overview
+   A) Fundamental AI Concepts
    Unit2: Generative AI and agents
    - Define generative AI and list at least three types of content it can produce.
    - What role does a language model play in generative AI solutions?
@@ -49,6 +50,40 @@ Learning Outcomes
    - Compare the principles of inclusiveness and transparency in responsible AI.
    - A university uses an AI system to review student admissions. Which responsible AI principle is most directly relevant and why?
    - An airport facial recognition system stores traveler images for temporary identity verification. What responsible AI principle applies and how?
+  
+B) Fundamentals of machine learning
+   Unit 1: Introduction
+   - What is the goal of machine learning?
+   - What is inferencing in the context of machine learning?
+   - Explain the relationship between data science and software engineering in machine learning projects.
+   - Compare the origins of machine learning with its modern software application role.
+   - A healthcare provider wants to predict whether a patient may develop diabetes based on clinical measurements. How would machine learning support this scenario?
+   - A small shop owner wants to estimate how many products they will sell tomorrow based on weather conditions. Which aspect of machine learning applies here and why?
+  
+Unit 2: Machine learning models
+  - What is the difference between training and inferencing in machine learning?
+  - In machine learning notation, what do x and y represent?
+  - Explain why machine learning models can be viewed as mathematical functions.
+  - Compare the roles of features and labels during training in machine learning.
+  - In a medical setting, a model predicts diabetes risk using clinical measurements such as weight and glucose levels. Identify the features and labels in this scenario and explain how they are used during training.
+  - A scientist trains a model to distinguish penguin species based on physical attributes. After training, they input measurements from a new penguin and receive a predicted species. Which process is this and why?
+  
+Unit 3: Types of machine learning model
+  - What distinguishes supervised machine learning from unsupervised machine learning?
+  -  In regression problems, what type of label does the model predict?
+  -  Explain how clustering works in unsupervised learning.
+  -  Compare binary classification, multiclass classification, and multilabel classification.
+  -   A real estate agency wants to predict the selling price of a property based on size, bedrooms, and location. Which machine learning type should be used and why?
+  -   A marketing team wants to segment customers into similar groups before designing targeted campaigns. There are no existing customer categories. Which machine learning approach is appropriate and why?
+
+Unit 4: Regression
+  - 
+Unit 5:
+Unit 6:
+Unit 7:
+Unit 8:
+Unit 9:
+Unit 10:
    
 3. Microsoft Azure AI Fundamentals Computer Vision
 4. Microsoft Azure AI Fundamentals Natural Language Processing
