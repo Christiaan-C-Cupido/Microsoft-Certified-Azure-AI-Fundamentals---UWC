@@ -75,9 +75,19 @@ Unit 3: Types of machine learning model
   -  Compare binary classification, multiclass classification, and multilabel classification.
   -   A real estate agency wants to predict the selling price of a property based on size, bedrooms, and location. Which machine learning type should be used and why?
   -   A marketing team wants to segment customers into similar groups before designing targeted campaigns. There are no existing customer categories. Which machine learning approach is appropriate and why?
-
-Unit 4: Regression
   - 
+Unit 4: Regression 
+  - What is the primary goal of regression models in supervised learning?
+  - What is the purpose of splitting training data?
+  - Define inferencing in machine learning.
+  - What does MAE measure?
+  - Explain how validation data is used when training a supervised machine learning model.
+  - Describe the concept of R² in regression model evaluation.
+  - Explain the iterative nature of regression model training.
+  - Compare mean absolute error (MAE) and mean squared error (MSE).
+  - Compare training data and validation data.
+  - Compare MAE and RMSE in terms of interpretability.
+    
 Unit 5:
 Unit 6:
 Unit 7:
