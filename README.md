@@ -99,3 +99,6 @@ Unit 10:
 4. Microsoft Azure AI Fundamentals Natural Language Processing
 5. Microsoft Azure AI Fundamentals Document Intelligence and Knowledge Mining
 6. Microsoft Azure AI Fundamentals Generative AI
+
+<img width="1045" height="726" alt="CCupido_Azure-AI-Fundamentals" src="https://github.com/user-attachments/assets/99476969-daf7-491f-835d-3997980e2adf" />
+
